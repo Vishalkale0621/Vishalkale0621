@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 - 🎓 Recently graduated and starting my journey as a **Java Developer**
-- 🌱 Currently strengthening my skills in **Core Java, OOP, and Data Structures**
+- 🌱 Currently strengthening my skills in **Core Java, OOP, and SQL**
 - 💼 Actively looking for **entry-level / junior developer** opportunities
 - 📫 Open to connecting — feel free to reach out!
 
